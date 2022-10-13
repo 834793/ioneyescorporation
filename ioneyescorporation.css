@@ -1,15 +1,15 @@
 .box {
   overflow: hidden;
-  background-color: #4682B4;
-  border: 2px solid #4682B4;
+  background-color: #023753;
+  border: 2px solid #023753;
   border-radius: 5px;
   margin: 0px;
 }
 
 body {
-  background-color: #B0CFDE;
+  background-color: #6c0000;
   font-size: 16px;
-  color: #B0CFDE;
+  color: #b2b2b2;
 } 
 
 table, th, td {
@@ -20,8 +20,8 @@ table, th, td {
 }
 .navbar {
   overflow: hidden;
-  background-color: #4682B4;
-  border: 2px solid #4682B4;
+  background-color: #023753;
+  border: 2px solid #023753;
   border-radius: 5px;
   margin: 0px;
 }
@@ -44,21 +44,21 @@ table, th, td {
   font-size: 16px;  
   border: none;
   outline: none;
-  color: white;
+  color: #b2b2b2;
   padding: 14px 16px;
-  background-color: #4682B4;
-  font-family: #2B1B17;
+  background-color: #ffffff;
+  font-family: #b2b2b2;
 }
 
 
 .navbar a:hover, .dropdown:hover .dropbtn {
-  background-color: #4682B4;
+  background-color: #ffffff;
 }
 
 .dropdown-content {
   display: none;
   position: absolute;
-  background-color: #2B1B17;
+  background-color: #ffffff;
   min-width: 160px;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
@@ -74,7 +74,7 @@ table, th, td {
 }
 
 .dropdown-content a:hover {
-  background-color: #2B1B17;
+  background-color: #ffffff;
 }
 
 .dropdown:hover .dropdown-content {
