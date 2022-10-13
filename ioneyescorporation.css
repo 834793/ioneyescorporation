@@ -9,7 +9,7 @@
 body {
   background-color: #023753;
   font-size: 16px;
-  color: #b2b2b2;
+  color: #6c0000;
 } 
 
 table, th, td {
@@ -19,7 +19,7 @@ table, th, td {
   margin-right:auto;
 }
 .navbar {
-  overflow: hidden;
+  overflow: float;
   background-color: #b2b2b2;
   border: 2px solid #b2b2b2;
   border-radius: 5px;
