@@ -1,3 +1,11 @@
+.top {
+  position: absolute;
+  left: 100px;
+  top: 100px;
+  border: 1px solid black;
+  z-index: 1;
+ }
+
 .box {
   overflow: hidden;
   background-color: #b2b2b2;
