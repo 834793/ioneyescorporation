@@ -21,6 +21,7 @@ table, th, td {
 }
 .navbar {
   overflow: hidden;
+  font-size: 16px;
   background-color: #b2b2b2;
   border: 2px solid #b2b2b2;
   border-radius: 5px;
