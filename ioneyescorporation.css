@@ -1,13 +1,13 @@
 .box {
   overflow: hidden;
-  background-color: #023753;
-  border: 2px solid #023753;
+  background-color: #b2b2b2;
+  border: 2px solid #b2b2b2;
   border-radius: 5px;
   margin: 0px;
 }
 
 body {
-  background-color: #6c0000;
+  background-color: #023753;
   font-size: 16px;
   color: #b2b2b2;
 } 
@@ -44,7 +44,7 @@ table, th, td {
   font-size: 16px;  
   border: none;
   outline: none;
-  color: #b2b2b2;
+  color: #6c0000;
   padding: 14px 16px;
   background-color: #ffffff;
   font-family: #b2b2b2;
