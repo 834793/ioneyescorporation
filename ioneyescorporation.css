@@ -28,7 +28,7 @@ table, th, td {
 }
 
 .navbar a {
-  float: right;
+  float: left;
   font-size: 16px;
   color: #6c0000;
   text-align: left;
