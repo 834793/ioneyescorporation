@@ -20,7 +20,7 @@ table, th, td {
   margin-right:auto;
 }
 .navbar {
-  overflow: float;
+  overflow: visible;
   background-color: #b2b2b2;
   border: 2px solid #b2b2b2;
   border-radius: 5px;
