@@ -52,7 +52,8 @@ table, th, td {
 
 
 .navbar a:hover, .dropdown:hover .dropbtn {
-  background-color: #ffffff;
+  background-color: #6c0000;
+  color: #ffffff;
 }
 
 .dropdown-content {
@@ -74,7 +75,8 @@ table, th, td {
 }
 
 .dropdown-content a:hover {
-  background-color: #ffffff;
+  background-color: #6c0000;
+  color: #ffffff;
 }
 
 .dropdown:hover .dropdown-content {
