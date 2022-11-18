@@ -1,3 +1,9 @@
+body {
+  background-color: #023753 url("ioneyesheader.PNG") no-repeat fixed center;
+  font-size: 16px;
+  color: #6c0000;
+} 
+
 .top {
   position: absolute;
   left: 100px;
@@ -29,11 +35,6 @@ img.make-it-fit {
   margin: 0px;
 }
 
-body {
-  background-color: #023753 url("ioneyesheader.PNG") no-repeat fixed center;
-  font-size: 16px;
-  color: #6c0000;
-} 
 
 table, th, td {
   border: 1px solid black;
