@@ -30,7 +30,7 @@ img.make-it-fit {
 }
 
 body {
-  background-color: #023753;
+  background-color: #023753 url("ioneyesheader.PNG") no-repeat fixed center;
   font-size: 16px;
   color: #6c0000;
 } 
