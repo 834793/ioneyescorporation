@@ -21,7 +21,7 @@ img.make-it-fit {
 }
 
 body {
-  background-image: url("ioneyesheader.PNG")
+  background-image: url("ioneyesheader.PNG");
   background-repeat: no-repeat;
   background- position: fixed center;
   background-color: #023753;
