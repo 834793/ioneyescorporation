@@ -1,9 +1,3 @@
-body {
-  background-color: #023753 url("ioneyesheader.PNG") no-repeat fixed center;
-  font-size: 16px;
-  color: #6c0000;
-} 
-
 .top {
   position: absolute;
   left: 100px;
@@ -25,6 +19,15 @@ img.make-it-fit {
     max-width: 99%;
     max-height: 99%;
 }
+
+body {
+  background-image: url("ioneyesheader.PNG")
+  background-repeat: no-repeat;
+  background- position: fixed center;
+  background-color: #023753;
+  font-size: 16px;
+  color: #6c0000;
+} 
 
 .box {
   overflow: hidden;
